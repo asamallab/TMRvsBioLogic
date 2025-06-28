@@ -52,11 +52,11 @@ This folder contains the analysis of the four models that include at least one n
 - attractor_and_JS_basin_score: This folder contains the data for the attractor recovery scores and JS distance scores for each alternative model.
 
 ### 6. Stability_analysis_of_RBN_ensembles
-This folder contains the codes and data required to reproduce the results associtaed with analysis of RBN ensemble in the manuscript.
+This folder contains the code and data required to reproduce the results associated with the analysis of the RBN ensemble in the manuscript.
 
-- RBNs_and_the_models: This folder contain the random networks and the three types of models (scNCF, IMR and BMR) used for our study.
-- derrida_final_hamming_fragility: This folder contains code to compute the stability measures $\delta , h^{\infty}$ and $\phi$.
-- plot: This folder contains the necessary codes and data to generate the boxplots of the distributions of different stability measures. For the codes to compute the G-density and average convergence rate of GoE states refer to our other GitHub repository: [BushySTG](https://github.com/asamallab/BushySTG/)
+- RBNs_and_the_models: This folder contains the random networks and the three types of models (scNCF, IMR, and BMR) used in our study.
+- derrida_final_hamming_fragility: This folder contains code to compute the stability measures $\delta$, $h^{\infty}$, and $\phi$.
+- plot: This folder contains the necessary code and data to generate boxplots showing the distributions of various stability measures. For the code to compute G-density and the average convergence rate of GoE states, please refer to our other GitHub repository: [BushySTG](https://github.com/asamallab/BushySTG/).
 
 
 
