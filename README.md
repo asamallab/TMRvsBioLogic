@@ -25,5 +25,5 @@ This folder is associated with the computation of the averaged Boolean complexit
 
 ### 4. Attractor_and_basin_recovery_of_BBM_models
 This folder contains all the required codes and data to compute the attractor recovery score and the JS between the basin fraction distribution from the corresponding gold standard.
-# a. network_generation
+#### a. network_generation
 <img src="schematic_fig_1_main.png">
