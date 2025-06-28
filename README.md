@@ -25,7 +25,7 @@ This folder is associated with the computation of the averaged Boolean complexit
 - src: Contains the code to compute and generate the plots of averaged Boolean complexity and averaged sensitivity of TMRs and NCFs, as well as to generate the corresponding plots for different sign combinations of the regulators.
 
 ### 5. Attractor_and_basin_recovery_of_BBM_models
-This folder contains all the required codes and data to compute the attractor recovery score and the JS between the basin fraction distribution from the corresponding gold standard.
+This folder contains all the required codes and data to compute the attractor recovery score and the Jensen-Shannon (JS) distance between the basin fraction distribution from the corresponding gold standard.
 #### a. network_generation
 - input: Contains the .bnet files of the 24 selected published models.
 - src: Contains the code to extract information from the models.
@@ -44,7 +44,7 @@ This folder contains code to compute the attractors of a model and their corresp
 
 #### e. Calculation_of_att_basin_recov_score
 - input: This folder contains information about the attractors and their basin sizes for the published models and their TMR alternatives. It also includes biologically meaningful attractors.
-- src: This folder contains the code to compute the attractor recovery score and the Jensen-Shannon (JS) distance between the basin fraction distributions and the corresponding gold standard, as well as to generate the corresponding heatmaps.
+- src: This folder contains the code to compute the attractor recovery score and the JS distance between the basin fraction distributions and the corresponding gold standard, as well as to generate the corresponding heatmaps.
 - output: This folder contains .tsv files with the computed scores and the generated heatmap plots.
 
 #### f. models_with_non_NCFs
