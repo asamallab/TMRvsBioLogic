@@ -1,0 +1,21 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_AKT1	8	Yes	Yes	Yes
+2	v_AKT2	3	Yes	Yes	Yes
+3	v_Apoptosis	6	Yes	Yes	Yes
+4	v_CCA	9	Yes	Yes	Yes
+5	v_EMT	2	Yes	Yes	Yes
+6	v_EMTreg	5	Yes	Yes	Yes
+7	v_ERK_pthw	5	Yes	Yes	Yes
+8	v_Ecadh	2	Yes	Yes	Yes
+9	v_GF	3	Yes	Yes	Yes
+10	v_Invasion	3	Yes	Yes	Yes
+11	v_Metastasis	1	Yes	Yes	Yes
+12	v_Migration	7	Yes	Yes	Yes
+13	v_Notch_pthw	4	Yes	Yes	Yes
+14	v_TGFb_pthw	4	Yes	Yes	Yes
+15	v_WNT_pthw	8	Yes	Yes	Yes
+16	v_miRNA	5	Yes	Yes	Yes
+17	v_p53	7	Yes	Yes	Yes
+18	v_p63_73	6	Yes	Yes	Yes
+19	v_DNAdamage	1	Yes	Yes	Yes
+20	v_ECMicroenv	1	Yes	Yes	Yes

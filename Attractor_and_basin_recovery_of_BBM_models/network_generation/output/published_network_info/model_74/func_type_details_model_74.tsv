@@ -1,0 +1,19 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_Apoptosis_	2	Yes	Yes	Yes
+2	v_BID_	2	Yes	Yes	Yes
+3	v_CREB	2	Yes	Yes	Yes
+4	v_CTLA4_	2	Yes	Yes	Yes
+5	v_Caspase	4	Yes	Yes	Yes
+6	v_Ceramide_	3	Yes	Yes	Yes
+7	v_DISC_	4	Yes	Yes	Yes
+8	v_FLIP_	2	Yes	Yes	Yes
+9	v_Fas	2	Yes	Yes	Yes
+10	v_GPCR_	2	Yes	Yes	Yes
+11	v_IAP_	2	Yes	Yes	Yes
+12	v_IFNG_	3	Yes	Yes	Yes
+13	v_MCL1	2	Yes	Yes	Yes
+14	v_P2	3	Yes	Yes	Yes
+15	v_S1P	2	Yes	Yes	Yes
+16	v_SMAD_	2	Yes	Yes	Yes
+17	v_TCR	2	Yes	Yes	Yes
+18	v_sFas	2	Yes	Yes	Yes

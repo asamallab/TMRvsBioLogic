@@ -1,0 +1,17 @@
+node	att_s1	att_s2	att_s3	att_s4	att_s5	att_s6
+v_A	0	0	0	1	1	1
+v_B	0	0	0	1	1	1
+v_C	0	0	0	1	1	1
+v_E	0	0	0	0	0	0
+v_E_m	1	1	1	0	1	1
+v_L	1	1	1	0	1	1
+v_M_1	1	1	1	0	1	1
+v_M_2	0	0	0	1	1	1
+v_P	0	0	0	0	0	0
+v_R	0	0	0	1	0	0
+v_T	1	1	1	1	1	1
+v_W	0	0	0	1	0	0
+v_W_m	1	1	1	1	1	1
+v_gamma	1	1	1	0	0	0
+v_omega_em	1	0	1	1	0	1
+v_omega_e	1	0	0	1	0	0

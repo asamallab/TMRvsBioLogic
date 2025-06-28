@@ -1,0 +1,23 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_AID	4	Yes	Yes	Yes
+2	v_BCR	1	Yes	Yes	Yes
+3	v_Bach2	2	Yes	Yes	Yes
+4	v_Bcl6	7	Yes	Yes	Yes
+5	v_Blimp1	6	Yes	Yes	Yes
+6	v_CD40	1	Yes	Yes	Yes
+7	v_ERK	1	Yes	Yes	Yes
+8	v_IL_21R	1	Yes	Yes	Yes
+9	v_IL_2R	1	Yes	Yes	Yes
+10	v_IL_4R	1	Yes	Yes	Yes
+11	v_Irf4	4	Yes	Yes	Yes
+12	v_NF_kB	1	Yes	Yes	Yes
+13	v_Pax5	4	Yes	Yes	Yes
+14	v_STAT3	1	Yes	Yes	Yes
+15	v_STAT5	1	Yes	Yes	Yes
+16	v_STAT6	1	Yes	Yes	Yes
+17	v_XBP1	2	Yes	Yes	Yes
+18	v_IL_21	1	Yes	Yes	Yes
+19	v_IL_2	1	Yes	Yes	Yes
+20	v_CD40L	1	Yes	Yes	Yes
+21	v_IL_4	1	Yes	Yes	Yes
+22	v_Ag	1	Yes	Yes	Yes

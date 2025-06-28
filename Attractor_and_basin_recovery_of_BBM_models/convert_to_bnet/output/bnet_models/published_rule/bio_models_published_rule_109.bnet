@@ -1,0 +1,6 @@
+targets,	factors
+v_CcrM,	(!v_CcrM & v_CtrA & !v_SciP)
+v_CtrA,	(!v_CcrM & !v_CtrA & v_GcrA & !v_SciP) | (!v_CcrM & v_CtrA & !v_GcrA & !v_SciP) | (!v_CcrM & v_CtrA & v_GcrA & !v_SciP)
+v_DnaA,	(v_CcrM & v_CtrA & !v_DnaA & !v_GcrA)
+v_GcrA,	(!v_CtrA & v_DnaA)
+v_SciP,	(v_CtrA & !v_DnaA)

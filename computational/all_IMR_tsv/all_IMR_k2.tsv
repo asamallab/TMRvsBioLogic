@@ -1,0 +1,13 @@
+	k	BF	sign	bias	self_loop	self_loop_index	Real_k	Real_sign	real_bias	EF_BF
+0	2	1010	ii	2	Y	0	1	i	1	10
+1	2	1100	ii	2	Y	1	1	i	1	10
+2	2	0101	ia	2	Y	0	1	a	1	01
+3	2	0101	ia	2	Y	1	1	a	1	01
+4	2	0011	ai	2	Y	0	1	a	1	01
+5	2	0011	ai	2	Y	1	1	a	1	01
+6	2	0011	aa	2	Y	0	1	a	1	01
+7	2	0101	aa	2	Y	1	1	a	1	01
+8	2	11010100	ii	4	N	NA	3	iia	4	11010100
+9	2	01110001	ia	4	N	NA	3	iaa	4	01110001
+10	2	01001101	ai	4	N	NA	3	aia	4	01001101
+11	2	00010111	aa	4	N	NA	3	aaa	4	00010111

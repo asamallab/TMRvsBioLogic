@@ -1,0 +1,23 @@
+	Node	No. of inputs	EF	UF	NCF	ROF
+1	v_Cat1_2	2	Yes	Yes	Yes	Yes
+2	v_CccA	1	Yes	Yes	Yes	Yes
+3	v_EstB	1	Yes	Yes	Yes	Yes
+4	v_FCminusFe	1	Yes	Yes	Yes	Yes
+5	v_FCplusFe	2	Yes	Yes	Yes	Yes
+6	v_HapX	2	Yes	Yes	Yes	Yes
+7	v_ICP	3	Yes	Yes	Yes	Yes
+8	v_LIP	5	Yes	Yes	No	Yes
+9	v_MirB	2	Yes	Yes	Yes	Yes
+10	v_RIA	1	Yes	Yes	Yes	Yes
+11	v_ROS	6	Yes	Yes	No	No
+12	v_SOD2_3	1	Yes	Yes	Yes	Yes
+13	v_SidA	2	Yes	Yes	Yes	Yes
+14	v_SreA	2	Yes	Yes	Yes	Yes
+15	v_TAFC	1	Yes	Yes	Yes	Yes
+16	v_ThP	1	Yes	Yes	Yes	Yes
+17	v_VAC	2	Yes	Yes	Yes	Yes
+18	v_Yap1	1	Yes	Yes	Yes	Yes
+19	v_hapX	1	Yes	Yes	Yes	Yes
+20	v_sreA	1	Yes	Yes	Yes	Yes
+21	v_Superoxide	1	Yes	Yes	Yes	Yes
+22	v__Iron	1	Yes	Yes	Yes	Yes

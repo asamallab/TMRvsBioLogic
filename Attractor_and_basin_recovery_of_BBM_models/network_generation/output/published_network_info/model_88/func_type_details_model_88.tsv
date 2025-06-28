@@ -1,0 +1,7 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_Neural_Precursor	1	Yes	Yes	Yes
+2	v_Progenitor	2	Yes	Yes	Yes
+3	v_elavl3_HuC	2	Yes	Yes	Yes
+4	v_her6	2	Yes	Yes	Yes
+5	v_miR_9	2	Yes	Yes	Yes
+6	v_zic5	2	Yes	Yes	Yes
