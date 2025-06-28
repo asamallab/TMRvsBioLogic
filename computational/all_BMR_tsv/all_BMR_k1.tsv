@@ -1,5 +1,0 @@
-	k	BF	sign	bias	self_loop	self_loop_index	Real_k	ineff_inps	Real_sign	real_bias	EF_BF
-0	1	00	i	0	Y	0	0	[0]	constant	0	0
-1	1	01	a	1	Y	0	1	[]	a	1	01
-2	1	0100	i	1	N	NA	1	[]	ia	1	0100
-3	1	0111	a	3	N	NA	1	[]	aa	3	0111

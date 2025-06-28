@@ -1,7 +1,0 @@
-	Unnamed: 0	k	BF	sign	bias	self_loop	self_loop_index	Real_k	Real_sign	real_bias	EF_BF	avg_sen	complexity
-0	0	1	0	i	0	Y	0	0	constant	0	0	0.0	0
-1	1	1	1	a	1	Y	0	1	a	1	01	1.0	1
-2	2	1	10	i	1	N	0	2	ai	1	0010	1.0	2
-3	3	1	111	a	3	N	0	2	aa	3	0111	1.0	2
-4	4	1	100	i	1	N	1	2	ia	1	0100	1.0	2
-5	5	1	111	a	3	N	1	2	aa	3	0111	1.0	2

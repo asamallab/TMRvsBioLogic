@@ -1,6 +1,0 @@
-node	swarmer_cell_cycle_s1	swarmer_cell_cycle_s2	swarmer_cell_cycle_s3	swarmer_cell_cycle_s4
-v_CcrM	0	1	0	0
-v_CtrA	1	1	0	0
-v_DnaA	0	0	1	0
-v_GcrA	0	0	0	1
-v_SciP	0	1	1	0

@@ -1,5 +1,0 @@
-Orig_model_ID	#nodes	#nodes_with_non_NCFs	#scNCF_models_w_att_constraint	#models_taken_for_analysis	att_score_modified_better_or_equiv_bio	att_score_modified_better_than_IMR	att_score_modified_better_than_BMR	basin_score_modified_better_or_equiv_bio	basin_score_modified_better_than_IMR	basin_score_modified_better_than_BMR
-61	26	2	686244	5000	1640	5000	5000	4064	5000	5000
-69	22	2	96	96	96	96	96	96	96	96
-95	10	4	2116	2116	576	2080	2116	313	2116	2116
-212	16	1	48	48	9	48	48	4	48	48
