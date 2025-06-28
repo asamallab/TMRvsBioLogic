@@ -18,12 +18,12 @@ This folder is associated with the enrichment analysis of TMRs in the three empi
 - src: This folder contains code for performing enrichment analysis and generating plots.
 - output: This folder contains the empirical fractions of various subtypes in the datasets.
 
-### 3. Complexity_analysis
+### 4. Complexity_analysis
 This folder is associated with the computation of the averaged Boolean complexity and averaged sensitivity of TMRs and NCFs.
 - input: Contains the Boolean complexity and average sensitivity data for TMRs and NCFs.
 - src: Contains the code to compute and generate the plots of averaged Boolean complexity and averaged sensitivity of TMRs and NCFs, as well as to generate the corresponding plots for different sign combinations of the regulators.
 
-### 4. Attractor_and_basin_recovery_of_BBM_models
+### 5. Attractor_and_basin_recovery_of_BBM_models
 This folder contains all the required codes and data to compute the attractor recovery score and the JS between the basin fraction distribution from the corresponding gold standard.
 #### a. network_generation
 - input: Contains the .bnet files of the 24 selected published models.
@@ -38,8 +38,21 @@ This folder contains code to generate the TMRs corresponding to a published mode
 - src: Contains code to generate BoolNet files from the integer format.
 - output: Contains the BoolNet files corresponding to each type.
 
-#### d. Simulating_NCF_and_TMRs
+#### d. Simulating_published_models_and_TMRs
 This folder contains code to compute the attractors of a model and their corresponding basin sizes.
+
+#### e. Calculation_of_att_basin_recov_score
+- input: This folder contains information about the attractors and their basin sizes for the published models and their TMR alternatives. It also includes biologically meaningful attractors.
+- src: This folder contains the code to compute the attractor recovery score and the Jensen-Shannon (JS) distance between the basin fraction distributions and the corresponding gold standard, as well as to generate the corresponding heatmaps.
+- output: This folder contains .tsv files with the computed scores and the generated heatmap plots.
+
+#### f. models_with_non_NCFs
+This folder contains the analysis of the four models that include at least one non-NCF BF. 
+- model_generation: This folder contains the code to generate alternative models by replacing non-NCFs with suitable scNCFs.
+- attractor_and_JS_basin_score: This folder contains the data for the attractor recovery scores and JS distance scores for each alternative model.
+
+### 6. 
+
 
 
 <img src="schematic_fig_1_main.png">
