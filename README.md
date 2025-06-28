@@ -26,4 +26,20 @@ This folder is associated with the computation of the averaged Boolean complexit
 ### 4. Attractor_and_basin_recovery_of_BBM_models
 This folder contains all the required codes and data to compute the attractor recovery score and the JS between the basin fraction distribution from the corresponding gold standard.
 #### a. network_generation
+- input: Contains the .bnet files of the 24 selected published models.
+- src: Contains the code to extract information from the models.
+- output: Contains the extracted information for each model.
+
+#### b. TMR_model_generation
+This folder contains code to generate the TMRs corresponding to a published model.
+
+#### c. convert_to_bnet
+- input: Contains the rules in integer format corresponding to the published model and TMRs.
+- src: Contains code to generate BoolNet files from the integer format.
+- output: Contains the BoolNet files corresponding to each type.
+
+#### d. Simulating_NCF_and_TMRs
+This folder contains code to compute the attractors of a model and their corresponding basin sizes.
+
+
 <img src="schematic_fig_1_main.png">
