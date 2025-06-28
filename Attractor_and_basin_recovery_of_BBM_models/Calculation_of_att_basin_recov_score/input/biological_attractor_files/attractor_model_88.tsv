@@ -1,0 +1,7 @@
+node	neural precursor state	cycling progenitor state	ambivalent state
+v_Neural_Precursor	1	0	0
+v_Progenitor	0	1	0
+v_elavl3_HuC	1	0	0
+v_her6	0	1	0
+v_miR_9	0	0	1
+v_zic5	0	1	0

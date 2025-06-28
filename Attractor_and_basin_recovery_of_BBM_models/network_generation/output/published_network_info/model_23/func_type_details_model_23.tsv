@@ -1,0 +1,11 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_Cdc20	1	Yes	Yes	Yes
+2	v_Cdh1	4	Yes	Yes	Yes
+3	v_CycA	6	Yes	Yes	No
+4	v_CycB	2	Yes	Yes	Yes
+5	v_CycE	2	Yes	Yes	Yes
+6	v_E2F	4	Yes	Yes	Yes
+7	v_Rb	5	Yes	Yes	Yes
+8	v_UbcH10	5	Yes	Yes	Yes
+9	v_p27	5	Yes	Yes	No
+10	v_CycD	1	Yes	Yes	Yes

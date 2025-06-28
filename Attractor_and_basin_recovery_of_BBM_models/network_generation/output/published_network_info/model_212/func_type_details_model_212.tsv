@@ -1,0 +1,17 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_A	2	Yes	Yes	Yes
+2	v_B	1	Yes	Yes	Yes
+3	v_C	1	Yes	Yes	Yes
+4	v_E	2	Yes	Yes	Yes
+5	v_E_m	2	Yes	Yes	Yes
+6	v_L	2	Yes	Yes	Yes
+7	v_M_1	1	Yes	Yes	Yes
+8	v_M_2	2	Yes	Yes	Yes
+9	v_P	2	Yes	Yes	Yes
+10	v_R	1	Yes	Yes	Yes
+11	v_T	1	Yes	Yes	Yes
+12	v_W	5	Yes	Yes	No
+13	v_W_m	5	Yes	Yes	Yes
+14	v_gamma	1	Yes	Yes	Yes
+15	v_omega_em	1	Yes	Yes	Yes
+16	v_omega_e	1	Yes	Yes	Yes

@@ -1,0 +1,16 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_Bmp2	2	Yes	Yes	Yes
+2	v_Dkk1	3	Yes	Yes	Yes
+3	v_Fgf8	3	Yes	Yes	Yes
+4	v_Foxc1_2	2	Yes	Yes	Yes
+5	v_GATAs	3	Yes	Yes	Yes
+6	v_Isl1	5	Yes	Yes	Yes
+7	v_Mesp1	2	Yes	Yes	Yes
+8	v_Nkx2_5	7	Yes	Yes	No
+9	v_Tbx1	1	Yes	Yes	Yes
+10	v_Tbx5	6	Yes	Yes	Yes
+11	v_canWnt	1	Yes	Yes	Yes
+12	v_exogen_BMP2_II	1	Yes	Yes	Yes
+13	v_exogen_canWnt_II	1	Yes	Yes	Yes
+14	v_exogen_CanWnt_I	1	Yes	Yes	Yes
+15	v_exogen_BMP2_I	1	Yes	Yes	Yes

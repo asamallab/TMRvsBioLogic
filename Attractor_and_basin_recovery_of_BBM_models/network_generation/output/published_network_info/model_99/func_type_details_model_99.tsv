@@ -1,0 +1,20 @@
+	Node	No. of inputs	EF	UF	NCF
+1	v_Brg1	1	Yes	Yes	Yes
+2	v_Cyr1	2	Yes	Yes	Yes
+3	v_EFG1_T	2	Yes	Yes	Yes
+4	v_ESCRT	1	Yes	Yes	Yes
+5	v_Efg1	1	Yes	Yes	Yes
+6	v_Efg1_active	3	Yes	Yes	Yes
+7	v_HAG_T	3	Yes	Yes	Yes
+8	v_HATs	2	Yes	Yes	Yes
+9	v_HDACs	1	Yes	Yes	Yes
+10	v_NRG1_T	6	Yes	Yes	Yes
+11	v_Nrg1_HAGs	3	Yes	Yes	Yes
+12	v_Rim8	1	Yes	Yes	Yes
+13	v_Ume6	2	Yes	Yes	Yes
+14	v_cAMP_PKA	1	Yes	Yes	Yes
+15	v_hyphal_initiation	4	Yes	Yes	Yes
+16	v_hyphal_maintenance	3	Yes	Yes	Yes
+17	v_pH	1	Yes	Yes	Yes
+18	v_Farnesol	1	Yes	Yes	Yes
+19	v_Temperature	1	Yes	Yes	Yes
