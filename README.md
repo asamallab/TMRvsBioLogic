@@ -11,7 +11,7 @@ This repository contains 6 folders which are described below.
 This folder contains the IMRs and BMRs corresponding to each sign combination. It also includes a list of one representative from each equivalence class of NCFs.
 
 ### 2. TMR_to_BF
-This folder contains code for mapping TMRs (IMRs and BMRs) to the corresponding EFs (TMR_to_BF.ipynb).
+This folder contains code for mapping TMRs (IMRs or Ising Majority Rules and BMRs or BMR Majority Rules) to the corresponding EFs (TMR_to_BF.ipynb).
 
 ### 3. Enrichment_analysis
 This folder is associated with the enrichment analysis of TMRs in the three empirical datasets (BBM, MCBF and Harris)
