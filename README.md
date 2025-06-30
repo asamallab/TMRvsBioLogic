@@ -8,10 +8,10 @@ This repository is associated with the manuscript: "Simple threshold-based Boole
 This repository contains 6 folders which are described below.
 
 ### 1. computational 
-This folder contains the IMRs and BMRs corresponding to each sign combination. It also includes a list of one representative from each equivalence class of NCFs.
+This folder contains the IMRs (Ising Majority Rules) and BMRs (Bit-based Majority Rules) corresponding to each sign combination. It also includes a list of one representative from each equivalence class of NCFs.
 
 ### 2. TMR_to_BF
-This folder contains code for mapping TMRs (IMRs or Ising Majority Rules and BMRs or Bit-based Majority Rules) to the corresponding EFs (TMR_to_BF.ipynb).
+This folder contains code for mapping TMRs (IMRs and BMRs) to the corresponding EFs (TMR_to_BF.ipynb).
 
 ### 3. Enrichment_analysis
 This folder is associated with the enrichment analysis of TMRs in the three empirical datasets (BBM, MCBF and Harris)
