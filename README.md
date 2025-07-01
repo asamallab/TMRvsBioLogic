@@ -1,6 +1,6 @@
 # TMRvsBioLogic
 This repository is associated with the manuscript: <br>
-Priyotosh Sil, Olivier C. Martin, and Areejit Samal, [<i> Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics <i>](https://www.biorxiv.org/content/10.1101/2025.06.26.661727), bioRxiv 2025.06.26.661727 <br>
+Priyotosh Sil, Olivier C. Martin, and Areejit Samal, [<i> Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics </i>](https://www.biorxiv.org/content/10.1101/2025.06.26.661727), bioRxiv 2025.06.26.661727. <br>
 
 "Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics".
 ## Contributor
