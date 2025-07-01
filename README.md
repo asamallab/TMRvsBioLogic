@@ -62,3 +62,10 @@ This folder contains the code and data required to reproduce the results associa
 - RBNs_and_the_models: This folder contains the random networks and the three types of models (scNCF, IMR, and BMR) used in our study.
 - derrida_final_hamming_fragility: This folder contains code to compute the stability measures $\delta$, $h^{\infty}$, and $\phi$.
 - plot: This folder contains the necessary code and data to generate boxplots showing the distributions of various stability measures. For the code to compute G-density and the average convergence rate of GoE states, please refer to our other GitHub repository: [BushySTG](https://github.com/asamallab/BushySTG/).
+ 
+## Citation
+In case you use the codes herein, please cite the following manuscript:
+Priyotosh Sil, Olivier C. Martin*, and Areejit Samal*, [<i> Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics </i>](https://www.biorxiv.org/content/10.1101/2025.06.26.661727), bioRxiv 2025.06.26.661727 (2025). <br>
+(* Corresponding authors)
+<br>
+
