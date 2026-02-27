@@ -1,6 +1,6 @@
 # TMRvsBioLogic
 This repository is associated with the manuscript: <br>
-Priyotosh Sil, Olivier C. Martin*, and Areejit Samal*, [<i> Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics </i>](https://doi.org/10.1088/1742-5468/ae4588), Journal of Statistical Mechanics: Theory and Experiment, 2026(2):023502 (2026). <br>
+Priyotosh Sil, Olivier C. Martin*, and Areejit Samal*, [<i> A systematic evaluation of simple threshold-based Boolean rules for modeling gene regulatory networks </i>](https://doi.org/10.1088/1742-5468/ae4588), Journal of Statistical Mechanics: Theory and Experiment, 2026(2):023502 (2026). <br>
 (* Corresponding authors)
 <br>
 
@@ -65,7 +65,7 @@ This folder contains the code and data required to reproduce the results associa
  
 ## Citation
 In case you use the codes herein, please cite the following manuscript:
-Priyotosh Sil, Olivier C. Martin*, and Areejit Samal*, [<i> Simple threshold-based Boolean rules fall short in capturing biological regulatory network dynamics </i>](https://www.biorxiv.org/content/10.1101/2025.06.26.661727), bioRxiv 2025.06.26.661727 (2025). <br>
+Priyotosh Sil, Olivier C. Martin*, and Areejit Samal*, [<i> A systematic evaluation of simple threshold-based Boolean rules for modeling gene regulatory networks </i>](https://doi.org/10.1088/1742-5468/ae4588), Journal of Statistical Mechanics: Theory and Experiment, 2026(2):023502 (2026). <br>
 (* Corresponding authors)
 <br>
 
